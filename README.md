@@ -1,7 +1,7 @@
 
 # Olá, bem vindo ao meu projeto Wave Cast
 
-![image](https://github.com/user-attachments/assets/45d659fd-d63e-4d7f-93f3-363fe609974b)
+![image](https://github.com/user-attachments/assets/47086d73-42d7-49e4-8e49-bb82bab48799)
 
 ## :hammer: Ferramentas utilizadas:
 
@@ -25,7 +25,7 @@ O projeto desenvolvido é de uma plataforma de multimídia que exibe podcasts e 
 
 ## 🔗 Site disponível em:
 
-
+https://joaomonferrari.github.io/interface-podcasts/
 
 ## 🔧 Feito por:
 
