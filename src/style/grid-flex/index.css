@@ -1,0 +1,21 @@
+/*Aplica pra todo o conteúdo do body*/
+body{
+    display: grid;
+    /*Define as areas que vao sofrer grid*/
+    grid-template-areas: 
+    "aside header"
+    "aside main";
+    grid-template-columns: auto 1fr;/*1fr: cuida da largura*/
+}
+
+.cabecalho{
+    grid-area: header;
+}
+
+.menu-lateral{
+    grid-area: aside;
+}
+
+.principal{
+    grid-area: main;
+}

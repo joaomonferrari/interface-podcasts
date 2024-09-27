@@ -1,0 +1,9 @@
+.menu-lateral{
+    display: grid;
+    grid-template-rows: repeat(3 , auto) 1fr;/*Cria 4 linhas - repeat cria 3 linhas com o valor auto*/
+    row-gap: 2rem;/*Distancia na linha - rem por ser responsivo*/
+}
+
+.menu-lateral__logo{
+    justify-self: center;/*Centraliza itens no grid*/
+}
